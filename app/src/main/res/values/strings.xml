@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">test_scaziti</string>
+
+    <string name="title_first_image">The cat at play</string>
+    <string name="first_image_artist">Henriëtte Ronner</string>
+    <string name="first_image_year">(1860)</string>
+
+    <string name="title_second_image">The Harmonists</string>
+    <string name="second_image_artist">Henriëtte Ronner</string>
+    <string name="second_image_year">(1876)</string>
+
+    <string name="title_third_image">The Threatened Swan</string>
+    <string name="third_image_artist">Jan Asselijn</string>
+    <string name="third_image_year">(1650)</string>
+</resources>
